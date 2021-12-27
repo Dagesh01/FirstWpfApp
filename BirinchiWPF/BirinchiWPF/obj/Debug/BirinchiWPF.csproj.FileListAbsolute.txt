@@ -1,0 +1,14 @@
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\bin\Debug\BirinchiWPF.exe.config
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\bin\Debug\BirinchiWPF.exe
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\bin\Debug\BirinchiWPF.pdb
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF.csprojResolveAssemblyReference.cache
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\MainWindow.g.cs
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\App.g.cs
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF_MarkupCompile.cache
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF_MarkupCompile.lref
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\MainWindow.baml
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF.g.resources
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF.Properties.Resources.resources
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF.csproj.GenerateResource.Cache
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF.exe
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\BirinchiWPF\BirinchiWPF\obj\Debug\BirinchiWPF.pdb
